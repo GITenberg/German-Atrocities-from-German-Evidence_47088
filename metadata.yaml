@@ -1,9 +1,13 @@
 _repo: German-Atrocities-from-German-Evidence_47088
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Harrison, Bernhard
     gutenberg_agent_id: '44126'
     url: http://www.gutenberg.org/2009/agents/44126
+covers:
+- cover_type: archival
+  image_path: 47088-h/images/cover.jpg
 creator:
   author:
     agent_name: Bédier, Joseph
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5429
     wikipedia: http://en.wikipedia.org/wiki/Joseph_B%C3%A9dier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47088#German-Atrocities-from-German-Evidence
 gutenberg_issued: '2014-10-10'
 gutenberg_type: Text
 identifiers:
